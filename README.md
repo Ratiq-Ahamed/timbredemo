@@ -31,6 +31,12 @@ For an isolated production check, run `npm.cmd start -- --port 3100` after build
 
 The visual check writes screenshots and a route/overflow/error report under `artifacts/`. Tests create isolated browser contexts and never alter another browser's saved demo.
 
+## Netlify deployment
+
+The Next.js app lives at the repository root. `netlify.toml` sets the build command to `npm run build` and the publish directory to `.next-production`, matching the production `distDir` in `next.config.ts`. This file overrides the Netlify UI publish setting; using `.next` there caused the adapter to report a missing publish directory after a successful build.
+
+Keep Netlify's Next.js runtime enabled for the server-rendered routes. Build output stays ignored by Git because Netlify generates it during deployment.
+
 ## Workspaces and routes
 
 | Workspace | Routes |
