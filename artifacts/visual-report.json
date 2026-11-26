@@ -1,0 +1,244 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/leads",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/marketing",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/quotes",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/customers",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/calendar",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/events",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/events/EVT-0124",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/crew",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/equipment",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/equipment/CAM-001",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/production",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/galleries",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/galleries/GAL-0118",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/finance",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/reports",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/admin/settings",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/freelancer",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/freelancer/jobs",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/freelancer/gear",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/freelancer/payouts",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/client",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/client/gallery/GAL-0118",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "route": "/print/quote/Q-0124",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "screenshot": "dashboard-desktop",
+      "overflow": false
+    },
+    {
+      "screenshot": "event-desktop",
+      "overflow": false
+    },
+    {
+      "screenshot": "equipment-desktop",
+      "overflow": false
+    },
+    {
+      "screenshot": "gallery-desktop",
+      "overflow": false
+    },
+    {
+      "screenshot": "freelancer-mobile",
+      "overflow": false
+    },
+    {
+      "screenshot": "gallery-mobile",
+      "overflow": false
+    },
+    {
+      "screenshot": "dashboard-mobile",
+      "overflow": false
+    },
+    {
+      "screenshot": "dashboard-1280",
+      "overflow": false
+    },
+    {
+      "screenshot": "dashboard-1024",
+      "overflow": false
+    },
+    {
+      "screenshot": "dashboard-tablet",
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "contrast": [
+    {
+      "foreground": "--ink",
+      "background": "--surface",
+      "ratio": 15.42,
+      "pass": true
+    },
+    {
+      "foreground": "--ink-secondary",
+      "background": "--canvas",
+      "ratio": 6.42,
+      "pass": true
+    },
+    {
+      "foreground": "--ink-muted",
+      "background": "--surface",
+      "ratio": 5.45,
+      "pass": true
+    },
+    {
+      "foreground": "--accent-ink",
+      "background": "--surface",
+      "ratio": 6.81,
+      "pass": true
+    },
+    {
+      "foreground": "--primary-foreground",
+      "background": "--primary",
+      "ratio": 9.32,
+      "pass": true
+    },
+    {
+      "foreground": "--sidebar-muted",
+      "background": "--sidebar",
+      "ratio": 8.37,
+      "pass": true
+    },
+    {
+      "foreground": "--sidebar-ink",
+      "background": "--sidebar-active",
+      "ratio": 9.44,
+      "pass": true
+    },
+    {
+      "foreground": "--success-ink",
+      "background": "--success-bg",
+      "ratio": 6.38,
+      "pass": true
+    },
+    {
+      "foreground": "--warning-ink",
+      "background": "--warning-bg",
+      "ratio": 5.88,
+      "pass": true
+    },
+    {
+      "foreground": "--danger-ink",
+      "background": "--danger-bg",
+      "ratio": 5.65,
+      "pass": true
+    },
+    {
+      "foreground": "--info-ink",
+      "background": "--info-bg",
+      "ratio": 5.94,
+      "pass": true
+    },
+    {
+      "foreground": "--neutral-ink",
+      "background": "--neutral-bg",
+      "ratio": 6.44,
+      "pass": true
+    }
+  ]
+}
