@@ -1,8 +1,8 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import sharp from "sharp";
 const ids = [
-  265722, 1444442, 265730, 169198, 1024981, 949224, 1456613, 931796, 2253870,
-  3014857, 2959192, 1043902,
+  24023466, 1444442, 265730, 169198, 1024981, 32805940, 1456613, 20609907,
+  31046031, 27910023, 2959192, 1043902,
 ];
 await mkdir("public/demo-media", { recursive: true });
 for (let i = 0; i < ids.length; i++) {
